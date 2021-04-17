@@ -23,9 +23,9 @@ app.use(
   })
 );
 
-ffmpeg.setFfmpegPath("E:/Program Files/ffmpeg/bin/ffmpeg.exe");
-ffmpeg.setFfprobePath("E:/Program Files/ffmpeg/bin");
-ffmpeg.setFlvtoolPath("E:/Program Files/flvtool");
+// ffmpeg.setFfmpegPath("E:/Program Files/ffmpeg/bin/ffmpeg.exe");
+// ffmpeg.setFfprobePath("E:/Program Files/ffmpeg/bin");
+// ffmpeg.setFlvtoolPath("E:/Program Files/flvtool");
 
 console.log(ffmpeg);
 
