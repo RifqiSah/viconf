@@ -5,7 +5,7 @@ const { writeFileSync, unlinkSync, readFileSync } = require("fs");
 const fileUpload = require("express-fileupload");
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 const tmp = "tmp/";
 
